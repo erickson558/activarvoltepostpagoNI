@@ -1,14 +1,17 @@
 {
-  "version": "0.0.6",
-  "last_code_hash": "815b5b1a63617fb3ee035b81556d72fd3097d53616dc95e1f2bb899725a37fe9",
+  "version": "0.0.10",
+  "last_code_hash": "d9396dd28a6ac03d6fa3e8a3c313f64106ad5862d7911602dae3eb50587b5618",
   "window_geometry": "1000x640+1711+33",
   "autostart": true,
   "autoclose_enabled": true,
   "autoclose_seconds": 60,
-  "status_text": "Repo existente: realizando commit/push…",
+  "status_text": "Verificando herramientas…",
   "shortcuts_enabled": true,
   "project_path": "C:\\Program Files (x86)\\EasyPHP-Webserver-14.1b2\\www\\monitoreos\\activarvoltepostpagoNI",
   "repo_name": "activarvoltepostpagoNI",
   "commit_message": "Actualización automática",
-  "create_readme_if_missing": true
+  "create_readme_if_missing": true,
+  "git_user_name": "erickson558",
+  "git_user_email": "erickson558@hotmail.com",
+  "github_user": "erickson558"
 }
