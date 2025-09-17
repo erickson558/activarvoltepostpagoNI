@@ -5,7 +5,7 @@
   "autostart": true,
   "autoclose_enabled": true,
   "autoclose_seconds": 60,
-  "status_text": "Verificando herramientas…",
+  "status_text": "Pipeline completado.",
   "shortcuts_enabled": true,
   "project_path": "C:\\Program Files (x86)\\EasyPHP-Webserver-14.1b2\\www\\monitoreos\\activarvoltepostpagoNI",
   "repo_name": "activarvoltepostpagoNI",
